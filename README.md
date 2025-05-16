@@ -15,4 +15,4 @@ doi: 10.1109/ICASSP49660.2025.10890769
 
 Occluded Object Classification: https://drive.google.com/file/d/1KRsD2mpsD1ELoN0vJHoY2DmHc3wO_-GW/view?usp=sharing
 
-doi: pending
+doi: 10.1109/TRS.2025.3571284
