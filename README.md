@@ -13,6 +13,6 @@ SMCNet: https://drive.google.com/file/d/1JQozRzk6kHmpf6peRlhk2UE0PYMbKdUl/view?u
 doi: 10.1109/ICASSP49660.2025.10890769
 
 
-Occluded Object Classification: https://drive.google.com/file/d/1KRsD2mpsD1ELoN0vJHoY2DmHc3wO_-GW/view?usp=sharing
+Occluded Object Classification / ACCOR: https://drive.google.com/file/d/1TykJlZEne-VscH1czFL6YQVnM-to2RUj/view?usp=sharing
 
 doi: 10.1109/TRS.2025.3571284
